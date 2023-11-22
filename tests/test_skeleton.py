@@ -1,6 +1,6 @@
 import pytest
 
-from azfn_fastapi_demo.skeleton import fib, main
+from azfn_fastapi_demo.main import fib, main
 
 __author__ = "Ashic Mahtab"
 __copyright__ = "Ashic Mahtab"
